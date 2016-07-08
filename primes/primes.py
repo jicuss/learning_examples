@@ -1,5 +1,7 @@
-# running through tutorial https://jeffknupp.com/blog/2013/12/09/improve-your-python-understanding-unit-testing/
-# from first import *
+'''
+Objective: Write a short program that determines is an integer is a prime, and returns all primes up through a given integer (n)
+Original Source Tutorial (scoped to unit testing): https://jeffknupp.com/blog/2013/12/09/improve-your-python-understanding-unit-testing/
+'''
 
 import math
 
